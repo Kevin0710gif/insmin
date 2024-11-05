@@ -1,0 +1,1 @@
+如果無法執行運行powershell Set-ExecutionPolicy Unrestricted
