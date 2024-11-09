@@ -76,3 +76,4 @@ Start-BitsTransfer -Source $Url11 -Destination $Destination11
 Start-BitsTransfer -Source $Url12 -Destination $Destination12
 
 Start-Process $Destination4 -Verb RunAs
+exit
