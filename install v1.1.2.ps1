@@ -53,6 +53,12 @@ $Url8 = "https://drive.usercontent.google.com/download?id=1CTCvyvfVE-FhbzFXjwjAt
 $Destination8 = "C:\minecraft\7z\7z.exe"
 
 
+$Url9 = "https://drive.usercontent.google.com/download?id=1-0up91WEUighTG_io95Zd6gXUH6ZUE1Z&export=download&authuser=0&confirm=t&uuid=5686baa4-ca94-4025-a6e7-0daa8ab45d77&at=AN_67v1_UawOWOJIh1QLwVViX3-n%3A1730130981142"
+$Destination9 = "C:\install\install\minecraft.lnk"
+
+
+
+
 
 # 開始下載
 Start-BitsTransfer -Source $Url1 -Destination $Destination1
@@ -63,5 +69,6 @@ Start-BitsTransfer -Source $Url5 -Destination $Destination5
 Start-BitsTransfer -Source $Url6 -Destination $Destination6
 Start-BitsTransfer -Source $Url7 -Destination $Destination7
 Start-BitsTransfer -Source $Url8 -Destination $Destination8
+Start-BitsTransfer -Source $Url9 -Destination $Destination9
 
 Start-Process $Destination4 -Verb RunAs
