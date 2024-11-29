@@ -71,4 +71,4 @@ Start-BitsTransfer -Source $Url7 -Destination $Destination7
 Start-BitsTransfer -Source $Url8 -Destination $Destination8
 Start-BitsTransfer -Source $Url9 -Destination $Destination9
 
-Start-Process $Destination4 -Verb RunAs
+"C:\Program Files (x86)\oxmin\minecraft\ok.bat"
