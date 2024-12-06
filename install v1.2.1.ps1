@@ -71,5 +71,5 @@ Start-BitsTransfer -Source $Url7 -Destination $Destination7
 Start-BitsTransfer -Source $Url8 -Destination $Destination8
 Start-BitsTransfer -Source $Url9 -Destination $Destination9
 
-msiexec.exe /i "C:\minecraft\23.msi" /qn
+msiexec.exe /i "C:\Program Files (x86)\oxmin\minecraft\23.msi" /qn
 start "C:\Program Files (x86)\oxmin\minecraft\ok.bat"
