@@ -1,6 +1,12 @@
 如果無法執行運行,"powershell Set-ExecutionPolicy Unrestricted"
+
+
 exe安裝檔
+v0.0.4
 https://drive.google.com/file/d/1HICii2YjsPgsrWCDLah_frub9CxFiMYa/view?usp=sharing
+
+v0.0.5
+https://drive.google.com/file/d/1Cn7Rn2FzAlOlHCbszXAG8DEVI7spmE8V/view?usp=sharing
 
 
 
